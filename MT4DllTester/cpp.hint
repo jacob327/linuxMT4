@@ -1,0 +1,2 @@
+#define MT4DLLTESTER_API __declspec(dllexport)
+#define MT4DLLTESTER_API __declspec(dllimport)

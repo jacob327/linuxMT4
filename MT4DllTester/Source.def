@@ -1,0 +1,5 @@
+LIBRARY MT4DllTest
+
+EXPORTS
+	TestFunction
+
